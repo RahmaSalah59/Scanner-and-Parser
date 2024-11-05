@@ -37,13 +37,13 @@
 (SpecialCharacter, ))
 (CharConstant, "hello")
 (SpecialCharacter, ;)
-(comment, // hello "rahma")
+(comment, // hello "user")
 (newline, 
 )
 (SpecialCharacter, })
 (newline, 
 )
-(comment, //rahma)
+(comment, //hello)
 (newline, 
 )
 (SpecialCharacter, ()
@@ -70,7 +70,7 @@
 )
 (Keyword, int)
 (Operator, =)
-(Identifier, rahma)
+(Identifier, hello)
 (Number, 6)
 (SpecialCharacter, ;)
 (newline, 

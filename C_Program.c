@@ -2,12 +2,12 @@
 
 void main(5,6,3,6,3) {
     while (x<0){
-    printf("hello"); // hello "rahma"
+    printf("hello"); // hello "user"
     }
-    //rahma
+    //hello
     for(int i=0 ;i<n ;i=i+1)
     {
-        int rahma=6 ;
+        int hello=6 ;
         3/5;
     }
 
