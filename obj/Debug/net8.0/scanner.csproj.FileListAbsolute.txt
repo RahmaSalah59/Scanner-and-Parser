@@ -1,0 +1,14 @@
+F:\02 grade4\compiler\project\scanner\bin\Debug\net8.0\scanner.exe
+F:\02 grade4\compiler\project\scanner\bin\Debug\net8.0\scanner.deps.json
+F:\02 grade4\compiler\project\scanner\bin\Debug\net8.0\scanner.runtimeconfig.json
+F:\02 grade4\compiler\project\scanner\bin\Debug\net8.0\scanner.dll
+F:\02 grade4\compiler\project\scanner\bin\Debug\net8.0\scanner.pdb
+F:\02 grade4\compiler\project\scanner\obj\Debug\net8.0\scanner.GeneratedMSBuildEditorConfig.editorconfig
+F:\02 grade4\compiler\project\scanner\obj\Debug\net8.0\scanner.AssemblyInfoInputs.cache
+F:\02 grade4\compiler\project\scanner\obj\Debug\net8.0\scanner.AssemblyInfo.cs
+F:\02 grade4\compiler\project\scanner\obj\Debug\net8.0\scanner.csproj.CoreCompileInputs.cache
+F:\02 grade4\compiler\project\scanner\obj\Debug\net8.0\scanner.dll
+F:\02 grade4\compiler\project\scanner\obj\Debug\net8.0\refint\scanner.dll
+F:\02 grade4\compiler\project\scanner\obj\Debug\net8.0\scanner.pdb
+F:\02 grade4\compiler\project\scanner\obj\Debug\net8.0\scanner.genruntimeconfig.cache
+F:\02 grade4\compiler\project\scanner\obj\Debug\net8.0\ref\scanner.dll
