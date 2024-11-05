@@ -1,9 +1,6 @@
 # C Scanner Project
 A comprehensive lexical analyzer (scanner) for C code, developed in C# to understand compiler design principles through tokenization, syntax recognition, and structure analysis
 
-## code by
-Rahma Salah Eldin Omar Hamouda
-
 ## Course Information
 This project was developed as part of the Compiler Design course:
 Institution: Faculty of Electronic Engineering,Menofia University
