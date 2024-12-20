@@ -19,4 +19,4 @@ This project implements a top-down parser that uses user-defined grammars to par
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/TopDownParser.git
+    git clone https://github.com/RahmaSalah59/Scanner-and-Parser.git
